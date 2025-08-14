@@ -23,7 +23,7 @@ Landing page for a **student-focused platform** helping South African students *
 ## 📦 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/startup-website.git
+   git clone git@github.com:Keuran-05/startup-website.github.io.git
    ```  
 2. Open `index.html` in your browser.  
 
