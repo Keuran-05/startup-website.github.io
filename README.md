@@ -28,7 +28,7 @@ Landing page for a **student-focused platform** helping South African students *
 2. Open `index.html` in your browser.  
 
 ## 🌐 Live Demo  
-[**View Live Website**](keuran-05.github.io/startup-website.github.io/) *(replace with your actual GitHub Pages link)*  
+[**View Live Website**](keuran-05.github.io/startup-website.github.io/) 
 
 ## 🛠 Technologies Used  
 - HTML5  
