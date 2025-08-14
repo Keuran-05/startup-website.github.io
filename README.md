@@ -18,7 +18,7 @@ Landing page for a **student-focused platform** helping South African students *
 ```
 
 ## 🖼 Preview  
-![Landing Page Preview](LiveDemo.PNG)  
+![Landing Page Preview](header.jpg)  
 
 ## 📦 Installation  
 1. Clone the repository:  
